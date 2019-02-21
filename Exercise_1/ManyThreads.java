@@ -1,3 +1,4 @@
+package Exercise_1;
 
 public class ManyThreads implements Runnable {
 

@@ -1,3 +1,4 @@
+package Exercise_1;
 
 public class PointlessPrint implements Runnable, java.lang.Runnable {
 	private String message;
